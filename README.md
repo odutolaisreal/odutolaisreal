@@ -1,4 +1,4 @@
-# 💫About Me :
+- 💫About Me :
 <h1 align="center">Hey 🙏, I'm Isreal</h1>
 <h3 align="center">A 16 year front-end Developer from Nigeria</h3>
 # Here is my portfolio | #https://odutola-portfolio.vercel.app/
