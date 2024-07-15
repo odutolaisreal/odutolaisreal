@@ -2,7 +2,7 @@
 <h1 align="center">Hey, I'm Isreal</h1>
 <h3 align="center">A Full-stack Developer from Nigeria</h3>
 
-# Here is my portfolio | **https://odutola-portfolio.vercel.app/**
+<h3>Here is my portfolio</h3> | **https://odutola-portfolio.vercel.app/**
 -
 
 - 🔭 I'm learning **html,css and java-script with ssa-tech hub**
