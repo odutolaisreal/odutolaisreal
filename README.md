@@ -1,15 +1,12 @@
 - 💫About Me :
-<h1 align="center">Hey, I'm Isreal</h1>
-<h3 align="center">A Full-stack Developer from Nigeria</h3>
+<h1 align="center">Hey, I'm Israel Odutola</h1>
+<h3 align="center">A Full-stack Web Developer from Nigeria</h3>
 
 <h3>Here is my portfolio</h3> https://odutola-portfolio.vercel.app/
--
-
-- 🔭 I'm learning **html,css and java-script with ssa-tech hub**
 
 - 👨‍💻 All of my projects are available at (https://github.com/odutolaisreal)
 
-- 💬 Ask me about **css, html,java-script**
+- 💬 Ask me about **FrontEnd And BackEnd Languages For Web Development**
 
 - 📫 How to reach me **odutolaisreal11@gmail.com**
   
