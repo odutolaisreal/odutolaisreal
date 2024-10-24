@@ -33,7 +33,7 @@ Check out some of my [live projects](https://odutola-portfolio.vercel.app) and r
 - 🐦 [Instagram](https://instagram.com/odus_technologies)
 - 💼 [LinkedIn](https://www.linkedin.com/in/odutola-israel-profile/)
 - 🌐 [Portfolio](https://https://odutola-portfolio.vercel.app/)
-- 📫 [Email]([odutolaisreal11@gmail.com](https://mail.google.com/mail/u/0)
+- 📫 [Email](https://mail.google.com/mail/u/0)
   
 ---
 
