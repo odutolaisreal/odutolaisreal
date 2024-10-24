@@ -33,7 +33,8 @@ Check out some of my [live projects](https://odutola-portfolio.vercel.app) and r
 - 🐦 [Instagram](https://instagram.com/odus_technologies)
 - 💼 [LinkedIn](https://www.linkedin.com/in/odutola-israel-profile/)
 - 🌐 [Portfolio](https://https://odutola-portfolio.vercel.app/)
-- 📫 [Email](odutolaisreal11@gmail.com)
+- 📫 [Email]([odutolaisreal11@gmail.com](https://mail.google.com/mail/u/0)
+  
 ---
 
 
@@ -41,16 +42,10 @@ Check out some of my [live projects](https://odutola-portfolio.vercel.app) and r
 <summary><b>⚡ Github Stats</b></summary>
 
   <br />
-  ![](https://github-readme-stats.vercel.app/api?username=odutolaisreal&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=odutolaisreal&theme=vision-friendly-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=odutolaisreal&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=odutolaisreal&theme=github_dark)<br/>
-[![trophy](https://github-profile-trophy.vercel.app/?username=odutolaisreal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![](https://visitcount.itsvg.in/api?id=Entertainment&label=Profile%20Views&color=2&icon=2&pretty=true)](https://visitcount.itsvg.in)
+  <img src="https://github-readme-stats.vercel.app/api?username=odutolaisreal&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="odutolaisreal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=odutolaisreal&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="odutolaisreal's GitHub Stats" />
 <details>
  <summary><b>☄️ Github Streaks</b></summary>
-
   <br />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devdhee&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odutolaisreal&theme=dark&hide_border=true" alt="odutolaisreal's GitHub Stats" />
 </details>
